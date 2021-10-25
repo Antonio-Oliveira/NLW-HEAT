@@ -6,7 +6,7 @@ Ao total foram desenvolvidos 4 projetos:
 * Backend com Node
 * Frontend com React
 * Mobile com React Native
-* Microserviço com Elixir
+* Microsserviço com Elixir
 
 
 
