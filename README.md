@@ -22,7 +22,7 @@ Ao total foram desenvolvidos 4 projetos:
     * Execute os comando para iniciar a aplicação: 
     * * yarn
     * * yarn dev
-    * * Obs.: /web/src/context/auth.tsx - procure signInUrl e modifique na URL o client-id para o que está na aplicação Node
+    * * Obs.: Entre no diretório /web/src/context/auth.tsx --- procure signInUrl e modifique na URL o client-id para o que está na aplicação Node
 
     <br />
 
@@ -36,7 +36,7 @@ Ao total foram desenvolvidos 4 projetos:
     * Execute os comando para iniciar a aplicação: 
     * * yarn
     * * expo start
-    * * Obs.: /nlw-heat-app/src/hooks/auth.tsx - e modifique o CLIENT-ID para o que está na aplicação Node
+    * * Obs.: Entre no diretório /nlw-heat-app/src/hooks/auth.tsx --- e modifique o CLIENT-ID para o que está na aplicação Node
 
    <br />
 
